@@ -2,7 +2,7 @@
 <html>
 
 <body>
-  <link rel='stylesheet' href='readme.css'/>
+  <link rel='stylesheet' href='readme.css' type='text'/>
   <header>
     <h1> <img src="logo.jpg"></h1>
     <ul>
