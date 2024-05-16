@@ -34,4 +34,23 @@
 [![Negociación Ventas Coporativas](https://media.licdn.com/dms/image/D4D12AQELfOuWNrJXHg/series-logo_image-shrink_200_200/0/1704769127005?e=1721260800&v=beta&t=00Xf_ttJO9oyy-FaP8TgdPy4s4mcudf5oleopStA5Zc "Negociación Ventas Coporativas")](https://www.linkedin.com/newsletters/7150320058366431232/)
 [![IA innovación en empresas](https://media.licdn.com/dms/image/D4E12AQFOOzl3Rm-iTw/series-logo_image-shrink_200_200/0/1703048430310?e=1721260800&v=beta&t=0NvfFdzqq0RbF6ORtydjkyrguJa0xyu7ckla6_YRfgU "IA innovación en empresas")](https://www.linkedin.com/newsletters/7143103636905086976/)
 
+<style>
+      .libutton {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 7px;
+        text-align: center;
+        outline: none;
+        text-decoration: none !important;
+        color: #ffffff !important;
+        width: 200px;
+        height: 32px;
+        border-radius: 16px;
+        background-color: #0A66C2;
+        font-family: "SF Pro Text", Helvetica, sans-serif;
+      }
+    </style>
+<a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7150320058366431232" target="_blank">Suscribirte en LinkedIn</a>
+
 
