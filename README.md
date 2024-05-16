@@ -24,7 +24,7 @@
 [![IA innovación en empresas](https://media.licdn.com/dms/image/D4E12AQFOOzl3Rm-iTw/series-logo_image-shrink_200_200/0/1703048430310?e=1721260800&v=beta&t=0NvfFdzqq0RbF6ORtydjkyrguJa0xyu7ckla6_YRfgU "IA innovación en empresas")](https://www.linkedin.com/newsletters/7143103636905086976/)
 
 
-<a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7150320058366431232" target="_blank">Suscribirte en LinkedIn</a>
+[![Suscribirse a los Newsletter](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7150320058366431232) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=riothed&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
