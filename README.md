@@ -31,7 +31,7 @@
 
 
 [![Gestion del Cambio](https://media.licdn.com/dms/image/D4E12AQElql-ABLM82Q/series-logo_image-shrink_200_200/0/1703049913059?e=1721260800&v=beta&t=3fVc4ZRbriCU0jYkeah3OhPJPHvjhpwl89wnzovzVbE "Gestion del Cambio")](https://www.linkedin.com/newsletters/7136204826241069056/)
-[![Tips and advice for Computer Science students](https://www.linkedin.com/newsletters/7143103636905086976/ "Tips and advice for Computer Science students")](https://www.linkedin.com/newsletters/7143103636905086976/)
-[![My Computer Science degree in 13 minutes](https://ytcards.demolab.com/?id=Dd_4zfmY-aA&title=My+Computer+Science+degree+in+13+minutes&lang=en&timestamp=1693396800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=786 "My Computer Science degree in 13 minutes")](https://youtu.be/Dd_4zfmY-aA?si=1AhwiUIamfs6clV3)
-[![How I would learn to code (if I could start over)](https://www.linkedin.com/newsletters/7136204826241069056/ "How I would learn to code (if I could start over)")](https://www.linkedin.com/newsletters/7136204826241069056/)
+[![Negociación Ventas Coporativas](https://media.licdn.com/dms/image/D4D12AQELfOuWNrJXHg/series-logo_image-shrink_200_200/0/1704769127005?e=1721260800&v=beta&t=00Xf_ttJO9oyy-FaP8TgdPy4s4mcudf5oleopStA5Zc "Negociación Ventas Coporativas")](https://www.linkedin.com/newsletters/7150320058366431232/)
+[![IA innovación en empresas](https://media.licdn.com/dms/image/D4E12AQFOOzl3Rm-iTw/series-logo_image-shrink_200_200/0/1703048430310?e=1721260800&v=beta&t=0NvfFdzqq0RbF6ORtydjkyrguJa0xyu7ckla6_YRfgU "IA innovación en empresas")](https://www.linkedin.com/newsletters/7143103636905086976/)
+
 
